@@ -1,0 +1,19 @@
+==================== 2026-11-11T04:47:41.148207Z | 01a1c8ee-e258-79d1-a9d7-91cf25df54af ====================
+04:47:41.148631 [info ]: Installing dbt project and profile setup
+04:47:41.175098 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+04:47:41.176243 [info ]: Success Project created successfully!
+04:47:41.176817 [info ]: Info Project name: analytics
+04:47:41.178503 [info ]: Info Project directory: analytics
+04:47:42.216381 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [1.1s]
+==================== 2026-11-11T04:48:16.937362Z | 01a1c8ef-6e26-7400-9360-d19ab131a2c6 ====================
+04:48:16.937753 [info ]: Installing dbt project and profile setup
+04:48:16.943658 [info ]: Warning Directory 'analytics' already exists, using 'analytics_1' instead
+04:48:16.967153 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+04:48:16.967418 [info ]: Success Project created successfully!
+04:48:16.967472 [info ]: Info Project name: analytics_1
+04:48:16.967490 [info ]: Info Project directory: analytics_1
+04:48:23.186474 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [6.2s]
