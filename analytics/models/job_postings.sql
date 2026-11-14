@@ -1,4 +1,4 @@
-{{ config(materialized="view") }}
+{{ config(materialized="table") }}
 
 -- all job postings, minus scraper error rows (data quality done properly in Advanced)
 SELECT
