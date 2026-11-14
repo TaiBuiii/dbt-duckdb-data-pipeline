@@ -3,9 +3,9 @@ on:
   push:
     branches: [master]
   schedule:
-    -cron: '17 6 * * 1'
+    - cron: '17 6 * * 1'
   workflow_dispatch:
-permission:
+permissions:
   contents: write
 jobs:
   build:
