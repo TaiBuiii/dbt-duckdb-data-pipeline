@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # datafile
-analytics/data/
+data/
 *.duckdb
 logs/
 
