@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# datafile
+analytics/data/
+*.duckdb
+logs/
+
+# dbt generated fikes
+.user.yml
